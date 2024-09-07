@@ -1,0 +1,56 @@
+@media screen and (min-width: 320px) and (max-width: 480px) {
+  .center {
+    width: 80%;
+    height: 400px;
+  }
+
+  #title {
+    font-size: 20px;
+  }
+
+  nav {
+    height: 40px;
+  }
+
+  nav #logoDiv img {
+    width: 25px;
+  }
+
+  nav #logoDiv h3 {
+    font-size: 12px;
+  }
+
+  nav .searchArea {
+    height: 25px;
+  }
+
+  nav .searchArea #searchInput {
+    height: 25px;
+    width: 150px;
+  }
+
+  .searchArea i {
+    padding: 0px 6px;
+  }
+
+  #menuList {
+    height: 76%;
+    width: 210px;
+    right: 0px;
+    top: 95px;
+  }
+
+  .Yfood {
+    display: none;
+  }
+
+  .Lfood {
+    display: block;
+    width: 190px;
+    position: absolute;
+    bottom: 40px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 15px;
+  }
+}
