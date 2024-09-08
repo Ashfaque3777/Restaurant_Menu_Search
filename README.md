@@ -48,7 +48,7 @@ The **Restaurant Menu Search** is a web application that allows users to browse 
    ```
 2. Navigate to the project folder:
    ```bash
-   cd restaurant-menu-search
+   cd Restaurant_Menu_Search
    ```
 3. Open `index.html` in your preferred browser.
 
